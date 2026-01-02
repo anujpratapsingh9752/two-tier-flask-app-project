@@ -1,4 +1,4 @@
-# base image
+# base image app
 FROM python:3.9-slim
 
 # working directory in the container

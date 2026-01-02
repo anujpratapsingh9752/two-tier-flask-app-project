@@ -1,4 +1,4 @@
-# Dockerized Two-Tier Flask App
+# Dockerized Two-Tier Flask App.
 
 ## About
 Two-tier Flask application with MySQL using Docker and Docker Compose.
